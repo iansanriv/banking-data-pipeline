@@ -16,12 +16,10 @@
 1. Reads customer, account, and transaction CSV files from an Amazon S3 bucket.
 2. Loads the data into Pandas DataFrames.
 3. Validates the datasets for:
-- Duplicate records
-- Invalid customer and account relationships
-- Invalid transaction amounts
-  
+   a. Duplicate records
+   b. Invalid customer and account relationships
+   c. Invalid transaction amounts
 4.Separates valid and invalid transaction records.
-
 5. Uploads validation output files back to Amazon S3.
 6. Loads validated banking data into Microsoft SQL Server using SQLAlchemy.
 
