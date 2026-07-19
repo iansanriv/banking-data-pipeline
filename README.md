@@ -27,10 +27,11 @@
 
 ## Python packages needed:
 - pip install -r requirements.txt
-- Requirements
+
+## Requirements
 - pandas
 - boto3
--SQLAlchemy
--pyodbc
+- SQLAlchemy
+- pyodbc
 
 This project is a basic cloud-based banking ETL pipeline using Python, AWS S3, data validation, and SQL Server database integration.
