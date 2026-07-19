@@ -1,0 +1,3 @@
+transaction_id,account_id,transaction_date,transaction_type,amount,invalid_account_id,invalid_amount,duplicate_transaction,validation_error
+TXN001,ACC001,2026-07-01,debit,45.25,False,False,False,
+TXN003,ACC003,2026-07-01,debit,89.99,False,False,False,

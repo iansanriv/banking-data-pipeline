@@ -1,0 +1,7 @@
+metric,count
+Total transactions,6
+Valid transactions,4
+Invalid transactions,2
+Invalid account IDs,1
+Invalid amounts,1
+Duplicate transactions IDs,2

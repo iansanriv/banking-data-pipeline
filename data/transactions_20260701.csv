@@ -1,0 +1,7 @@
+transaction_id,account_id,transaction_date,transaction_type,amount
+TXN001,ACC001,2026-07-01,debit,45.25
+TXN002,ACC002,2026-07-01,credit,1200.00
+TXN003,ACC003,2026-07-01,debit,89.99
+TXN004,ACC999,2026-07-01,debit,50.00
+TXN002,ACC002,2026-07-01,credit,1200.00
+TXN006,ACC001,2026-07-01,debit,-25.00

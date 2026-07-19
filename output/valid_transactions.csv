@@ -1,0 +1,5 @@
+transaction_id,account_id,transaction_date,transaction_type,amount,invalid_account_id,invalid_amount,duplicate_transaction,validation_error
+TXN002,ACC002,2026-07-01,credit,1200.0,False,False,True,Duplicate transaction ID
+TXN004,ACC999,2026-07-01,debit,50.0,True,False,False,Invalid account ID
+TXN002,ACC002,2026-07-01,credit,1200.0,False,False,True,Duplicate transaction ID
+TXN006,ACC001,2026-07-01,debit,-25.0,False,True,False,Invalid amount

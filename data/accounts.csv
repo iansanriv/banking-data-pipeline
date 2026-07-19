@@ -1,0 +1,4 @@
+account_id,customer_id,account_type,status,opening_balance,open_date
+ACC001,CUST001,checking,active,1500.00,2024-01-16
+ACC002,CUST002,savings,active,5200.00,2024-03-21
+ACC003,CUST003,checking,active,2200.00,2025-01-11

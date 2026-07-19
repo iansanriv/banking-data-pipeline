@@ -1,0 +1,4 @@
+customer_id,first_name,last_name,email,state,created_date
+CUST001,John,Smith,john.smith@email.com,PR,2024-01-15
+CUST002,Maria,Rivera,maria.rivera@email.com,PR,2024-03-20
+CUST003,James,Williams,james.w@email.com,FL,2025-01-10
