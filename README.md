@@ -21,6 +21,7 @@
 - Invalid transaction amounts
   
 4.Separates valid and invalid transaction records.
+
 5. Uploads validation output files back to Amazon S3.
 6. Loads validated banking data into Microsoft SQL Server using SQLAlchemy.
 
